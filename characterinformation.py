@@ -21,3 +21,5 @@ class Boss(Character):
 
 hero = Character("Knight", 111), Hero(1, 50.00)
 boss = Character("Ogre", 333), Boss(2, 5500, 99, float(Boss.hp/300))
+
+
